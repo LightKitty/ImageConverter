@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ImageConverter.Properties
+namespace ImageConverter.Forms.Properties
 {
 
 
